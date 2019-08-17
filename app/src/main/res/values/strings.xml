@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Medicinal Herb</string>
+    <string name="app_name">Kotlin Basic</string>
     <string name="move_activity">Pindah Activity</string>
     <string name="move_with_data">Pindah Activity dengan Data</string>
     <string name="move_with_object">Pindah Activity dengan Object</string>
@@ -65,8 +65,8 @@
     <string name="tittle">Tanaman HERBAL</string>
     <string name="descriptionTitle">Jenis - Jenis Tanaman Obat dan Manfaatnya</string>
     <string name="btnJelajah">Jelajahi</string>
-    <string name="latihan1">Latihan 1</string>
-    <string name="latihan2">Latihan 2</string>
-    <string name="latihan3">Latihan 3</string>
-    <string name="latihan4">Latihan 4</string>
+    <string name="latihan1">Kalkulasi Volume</string>
+    <string name="latihan2">Intent</string>
+    <string name="latihan3">View Group</string>
+    <string name="latihan4">RecyclerView</string>
 </resources>
